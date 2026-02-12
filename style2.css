@@ -20,6 +20,7 @@
 .item{
     height: 100px;
     width: 100px;
+    widht:100px;
     margin: 100px;
     padding:20px;
     background-color: brown;
@@ -45,4 +46,5 @@
     grid-area: footer;
 
 }
+
 
